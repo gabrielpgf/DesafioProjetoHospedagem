@@ -1,0 +1,15 @@
+D:\MeusProjetos_Gabriel\DesafioProjetoHospedagem\obj\Debug\net7.0\DesafioProjetoHospedagem.csproj.AssemblyReference.cache
+D:\MeusProjetos_Gabriel\DesafioProjetoHospedagem\obj\Debug\net7.0\DesafioProjetoHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+D:\MeusProjetos_Gabriel\DesafioProjetoHospedagem\obj\Debug\net7.0\DesafioProjetoHospedagem.AssemblyInfoInputs.cache
+D:\MeusProjetos_Gabriel\DesafioProjetoHospedagem\obj\Debug\net7.0\DesafioProjetoHospedagem.AssemblyInfo.cs
+D:\MeusProjetos_Gabriel\DesafioProjetoHospedagem\obj\Debug\net7.0\DesafioProjetoHospedagem.csproj.CoreCompileInputs.cache
+D:\MeusProjetos_Gabriel\DesafioProjetoHospedagem\bin\Debug\net7.0\DesafioProjetoHospedagem.exe
+D:\MeusProjetos_Gabriel\DesafioProjetoHospedagem\bin\Debug\net7.0\DesafioProjetoHospedagem.deps.json
+D:\MeusProjetos_Gabriel\DesafioProjetoHospedagem\bin\Debug\net7.0\DesafioProjetoHospedagem.runtimeconfig.json
+D:\MeusProjetos_Gabriel\DesafioProjetoHospedagem\bin\Debug\net7.0\DesafioProjetoHospedagem.dll
+D:\MeusProjetos_Gabriel\DesafioProjetoHospedagem\bin\Debug\net7.0\DesafioProjetoHospedagem.pdb
+D:\MeusProjetos_Gabriel\DesafioProjetoHospedagem\obj\Debug\net7.0\DesafioProjetoHospedagem.dll
+D:\MeusProjetos_Gabriel\DesafioProjetoHospedagem\obj\Debug\net7.0\refint\DesafioProjetoHospedagem.dll
+D:\MeusProjetos_Gabriel\DesafioProjetoHospedagem\obj\Debug\net7.0\DesafioProjetoHospedagem.pdb
+D:\MeusProjetos_Gabriel\DesafioProjetoHospedagem\obj\Debug\net7.0\DesafioProjetoHospedagem.genruntimeconfig.cache
+D:\MeusProjetos_Gabriel\DesafioProjetoHospedagem\obj\Debug\net7.0\ref\DesafioProjetoHospedagem.dll
